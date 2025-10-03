@@ -1,0 +1,31 @@
+Feature,Test_Type,Statistic,P_Value,Significant
+seniorcitizen,chi-square,118.54565952797543,1.3168764877027205e-27,True
+tenure,t-test,27.638563323430382,8.634919746743964e-158,True
+monthlycharges,t-test,-15.162579684177295,6.266597841533279e-51,True
+totalcharges,t-test,14.873051219564223,4.174891663137573e-49,True
+gender_Male,chi-square,0.018367028789542078,0.8921967902255464,False
+partner_Yes,chi-square,118.969315395692,1.0636217670392265e-27,True
+dependents_Yes,chi-square,157.16365534797842,4.713995608125112e-36,True
+phoneservice_Yes,chi-square,1.677586551885606,0.1952454518833495,False
+multiplelines_No phone service,chi-square,1.677586551885606,0.1952454518833495,False
+multiplelines_Yes,chi-square,10.592157956352533,0.0011356834193249111,True
+internetservice_Fiber optic,chi-square,549.3205489364103,1.7692878795644356e-121,True
+internetservice_No,chi-square,294.0105315700482,6.648414560478489e-66,True
+onlinesecurity_No internet service,chi-square,294.0105315700482,6.648414560478489e-66,True
+onlinesecurity_Yes,chi-square,170.84419435737948,4.8393677784863826e-39,True
+onlinebackup_No internet service,chi-square,294.0105315700482,6.648414560478489e-66,True
+onlinebackup_Yes,chi-square,37.88957839591019,7.486408769583532e-10,True
+deviceprotection_No internet service,chi-square,294.0105315700482,6.648414560478489e-66,True
+deviceprotection_Yes,chi-square,21.10296251974247,4.352547050182904e-06,True
+techsupport_No internet service,chi-square,294.0105315700482,6.648414560478489e-66,True
+techsupport_Yes,chi-square,153.90806178274877,2.425610437511316e-35,True
+streamingtv_No internet service,chi-square,294.0105315700482,6.648414560478489e-66,True
+streamingtv_Yes,chi-square,29.194233133434665,6.547378948197417e-08,True
+streamingmovies_No internet service,chi-square,294.0105315700482,6.648414560478489e-66,True
+streamingmovies_Yes,chi-square,22.62741004473235,1.9665885448560232e-06,True
+contract_One year,chi-square,180.46170810380403,3.84247813970004e-41,True
+contract_Two year,chi-square,512.9553480550561,1.4428432580049405e-113,True
+paperlessbilling_Yes,chi-square,219.9224535220564,9.403693565942979e-50,True
+paymentmethod_Credit card (automatic),chi-square,106.1946216051888,6.683780630720117e-25,True
+paymentmethod_Electronic check,chi-square,537.2031540692954,7.653909799951946e-119,True
+paymentmethod_Mailed check,chi-square,44.45874696102391,2.597737416539299e-11,True

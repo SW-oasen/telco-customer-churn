@@ -1,0 +1,31 @@
+,0
+tenure,0.06914900515110123
+contract_Two year,0.058596189735535376
+monthlycharges,0.04846971826612845
+paymentmethod_Electronic check,0.04471233839070998
+internetservice_Fiber optic,0.04380342528115788
+streamingtv_No internet service,0.04070462235344796
+totalcharges,0.03899144586969627
+streamingmovies_No internet service,0.03814216074589494
+techsupport_No internet service,0.03667483751108924
+deviceprotection_No internet service,0.03392454414723445
+onlinesecurity_No internet service,0.03237240422090748
+onlinebackup_No internet service,0.030973410940869472
+paperlessbilling_Yes,0.022072429592336684
+onlinesecurity_Yes,0.020594060185373575
+internetservice_No,0.019345432099211246
+contract_One year,0.019273775461246867
+dependents_Yes,0.01760575693674693
+paymentmethod_Mailed check,0.012201326837312676
+techsupport_Yes,0.00998323978343496
+onlinebackup_Yes,0.00826626247743567
+streamingtv_Yes,0.007597326503638424
+paymentmethod_Credit card (automatic),0.0065736721277469545
+seniorcitizen,0.005989246299074047
+partner_Yes,0.005656457388064862
+phoneservice_Yes,0.0037055250489494984
+streamingmovies_Yes,0.0033981910752325373
+gender_Male,0.00016833959667406084
+multiplelines_Yes,0.0
+multiplelines_No phone service,0.0
+deviceprotection_Yes,0.0
