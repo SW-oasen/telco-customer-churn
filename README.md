@@ -2,6 +2,9 @@
 
 A comprehensive machine learning project for predicting customer churn in telecommunications industry using advanced analytics, feature engineering, and multiple modeling approaches.
 
+## portfolio website on GitHub
+https://sw-oasen.github.io/yuchuan-portfolio/#projects
+
 ## 📊 Project Overview
 
 This project analyzes customer churn patterns for a telecommunications company and builds predictive models to identify customers at risk of churning. The analysis includes exploratory data analysis, feature engineering, hyperparameter optimization, and comprehensive feature importance analysis.
